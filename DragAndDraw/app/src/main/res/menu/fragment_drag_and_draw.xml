@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/draw"
+        android:icon="@drawable/ic_draw_foreground"
+        android:title="Draw"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/erase"
+        android:icon="@drawable/ic_erase_foreground"
+        android:title="Erase"
+        app:showAsAction="ifRoom"/>
+</menu>
