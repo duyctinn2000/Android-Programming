@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Nhập tên vụ án</string>
+    <string name="crime_title_label">Vụ án</string>
+    <string name="crime_details_label">Chi tiết</string>
+    <string name="crime_solved_label">Đã phá</string>
+    <string name="date_picker_title">Ngày xảy ra:</string>
+    <string name="new_crime">Vụ án mới</string>
+    <string name="show_subtitle">Hiện số vụ</string>
+    <string name="hide_subtitle">Ẩn số vụ</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d vụ án</item>
+        <item quantity="other">%1$d vụ án</item>
+    </plurals>
+    <string name="subtitle_format">%1$d vụ án</string>
+    <string name="delete_crime">Xóa vụ án</string>
+    <string name="empty_text">Không có vụ án nào</string>
+    <string name="crime_suspect_text">Chọn nghi phạm</string>
+    <string name="crime_report_text">Gửi báo cáo nghi phạm</string>
+    <string name="crime_report">%1$s!
+        Vụ án này được phát hiện vào %2$s. %3$s, và %4$s
+    </string>
+    <string name="crime_report_solved">Trường hợp đã giải quyết</string>
+    <string name="crime_report_unsolved">Trường hợp chưa giải quyết</string>
+    <string name="crime_report_no_suspect">Không có nghi phạm.</string>
+    <string name="crime_report_suspect">Nghi phạm là %s</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Gửi báo cáo vụ án thông qua</string>
+</resources>

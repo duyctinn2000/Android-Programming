@@ -1,0 +1,51 @@
+com/example/criminalintent/PhotoZoomFragment.java
+ com.example.criminalintent.PhotoZoomFragment
+ com.example.criminalintent.PhotoZoomFragment$1
+com/example/criminalintent/PictureUtils.java
+ com.example.criminalintent.PictureUtils
+com/example/criminalintent/CrimeLab.java
+ com.example.criminalintent.CrimeLab
+com/example/criminalintent/database/CrimeDbSchema.java
+ com.example.criminalintent.database.CrimeDbSchema
+ com.example.criminalintent.database.CrimeDbSchema$Cols
+ com.example.criminalintent.database.CrimeDbSchema$CrimeTable
+com/example/criminalintent/CrimeListFragment.java
+ com.example.criminalintent.CrimeListFragment
+ com.example.criminalintent.CrimeListFragment$1
+ com.example.criminalintent.CrimeListFragment$2
+ com.example.criminalintent.CrimeListFragment$Callbacks
+ com.example.criminalintent.CrimeListFragment$CrimeAdapter
+ com.example.criminalintent.CrimeListFragment$CrimeHolder
+com/example/criminalintent/SingleFragmentActivity.java
+ com.example.criminalintent.SingleFragmentActivity
+com/example/criminalintent/database/CrimeBaseHelper.java
+ com.example.criminalintent.database.CrimeBaseHelper
+com/example/criminalintent/BuildConfig.java
+ com.example.criminalintent.BuildConfig
+com/example/criminalintent/database/CrimeCursorWrapper.java
+ com.example.criminalintent.database.CrimeCursorWrapper
+com/example/criminalintent/DatePickerFragment.java
+ com.example.criminalintent.DatePickerFragment
+ com.example.criminalintent.DatePickerFragment$1
+com/example/criminalintent/CrimeListActivity.java
+ com.example.criminalintent.CrimeListActivity
+com/example/criminalintent/CrimeFragment.java
+ com.example.criminalintent.CrimeFragment
+ com.example.criminalintent.CrimeFragment$1
+ com.example.criminalintent.CrimeFragment$2
+ com.example.criminalintent.CrimeFragment$3
+ com.example.criminalintent.CrimeFragment$4
+ com.example.criminalintent.CrimeFragment$5
+ com.example.criminalintent.CrimeFragment$6
+ com.example.criminalintent.CrimeFragment$7
+ com.example.criminalintent.CrimeFragment$8
+ com.example.criminalintent.CrimeFragment$9
+ com.example.criminalintent.CrimeFragment$Callbacks
+com/example/criminalintent/Crime.java
+ com.example.criminalintent.Crime
+com/example/criminalintent/CrimePagerActivity.java
+ com.example.criminalintent.CrimePagerActivity
+ com.example.criminalintent.CrimePagerActivity$1
+ com.example.criminalintent.CrimePagerActivity$2
+ com.example.criminalintent.CrimePagerActivity$3
+ com.example.criminalintent.CrimePagerActivity$4
